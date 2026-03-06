@@ -3,7 +3,7 @@ Project #2 for CSC 331- Computer Organization. Leaf and Non-Leaf Procedural Call
 
 Rodriguez, Ryan\
 3/5/26\
-CSC331-Professor Bin Tang\
+CSC331-Professor Bin Tang
 
 a) If the program executes correctly or not
 
